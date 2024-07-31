@@ -5,7 +5,7 @@ This project aims to explore the relationship between TripAdvisor reviews and co
 
 ### Dataset
 * **Description:** TripAdvisor dataset containing hotel reviews and ratings.
-* **Preprocessing:** Text cleaning, tokenization, and feature extraction (TF-IDF) were performed.
+* **Preprocessing:** Text cleaning, tokenization, and feature extraction were performed.
 
 ### Methodology
 1. **Data Exploration:** Utilized word clouds, pie charts, bar charts, and joint plots to visualize data distribution and potential correlations.
